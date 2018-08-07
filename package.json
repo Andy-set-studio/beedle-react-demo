@@ -21,6 +21,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
     "beedle": "^0.6.7",
     "eslint": "^5.3.0",
     "react": "^16.4.2",
