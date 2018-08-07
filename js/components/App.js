@@ -8,7 +8,7 @@ export default class App extends React.Component {
             <div>
                 <header>
                     <h1>Beedle React JS Demo</h1>
-                    <p>You can use <a href="http://github.com/hankchizljaw/beedle">Beedle</a> with <a href="https://reactjs.org/">React JS</a> without a connector. This prototype shows how we can map our store's state to a computed prop and use `dispatch` directly.</p>
+                    <p>You can use <a href="http://github.com/hankchizljaw/beedle">Beedle</a> with <a href="https://reactjs.org/">React JS</a> without a connector. This prototype shows how we can integrate our store's state with our React Component's state. The `setState` method is then wired up to the store's `subscribe` callback.</p>
                     <p><b>Check out the <a href="https://github.com/hankchizljaw/beedle-react-demo">source here</a></b>.</p>
                     <hr />
                 </header>
