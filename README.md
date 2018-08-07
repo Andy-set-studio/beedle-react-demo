@@ -11,4 +11,4 @@ Check out the [<Password />](https://github.com/hankchizljaw/beedle-vue-demo/blo
 
 
 
-![An animation showing the demo in action](https://s3-us-west-2.amazonaws.com/s.cdpn.io/174183/beedlevue.gif)
+![An animation showing the demo in action](https://s3-us-west-2.amazonaws.com/s.cdpn.io/174183/beedlereact.gif)
